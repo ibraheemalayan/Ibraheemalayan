@@ -2,7 +2,9 @@
 
 # Ibraheem Alyan
 
-### I am a web developer and linux system administrator
+### A tech geek, web developer, and linux system administrator
+
+### 📚 Studying Computer Engineering at 🏫 BZU 🏫
 
 ### check my portfolio 👉 [ibraheemalyan.dev](https://www.ibraheemalyan.dev/)
 
