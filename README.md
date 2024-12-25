@@ -5,8 +5,8 @@
 # Ibraheem Alyan
   
   <p>
-  A tech geek 👨🏻‍💻 , web developer, and Linux-Systems ⚙️ administrator    <br>
-    📚 Studying Computer Engineering at 🏫 <strong><a href="https://www.birzeit.edu">BZU</a></strong> 🏫
+  Tech Geek 👨🏻‍💻 | Cloud Engineer ☁️ | Backend engineer | Mobile Developer | Linux Administrator ⚙️    <br>
+    📚 Computer Engineering B.S.c from 🏫 <strong><a href="https://www.birzeit.edu">BZU</a></strong> 🏫
   </p>
   
   
@@ -14,18 +14,18 @@
   
     
   </div>
-  
+
 
   
-
 ## 📌 Bio
 
-Computer engineering student, Full-Stack Web Developer, and certified Linux-systems administrator (CompTIA Linux+). capable of implementing every layer in a desktop/mobile/web application: infrastructure, server deployments, web back-end,  DevOps, team management and flutter front-ends. my work involves building Python back-ends based on Flask or Django, implementing RESTful and SOAP APIs, designing and administrating SQL and NoSQL databases, cloud-deploying, monitoring, and maintaining Linux servers.
+An enthusiastic backend engineer with a strong foundation in scalable systems, I combine entrepreneurial experience as co-founder and CTO of the ongoing startup Silal with academic excellence as a Computer Engineering graduate with "High Distinction". Driven by a passion for learning, I’ve mastered various tools, frameworks, and technologies, earning certifications like CompTIA Linux+ and continually refining my skills through specialized courses.
+Building Silal, completing numerous smaller projects, and developing a cloud-native AI solution for my graduation project, all demonstrated my ability to deliver innovative, production-ready solutions.
 
 
 ## 📫 How to reach me
 
-👉 contact@ibraheemalyan.dev
+👉 contact@ibraheemalayan.dev
 
 ## 📄 Portfolio
-👉 [ibraheemalyan.dev](https://www.ibraheemalyan.dev/)
+👉 [ibraheemalayan.dev](https://www.ibraheemalayan.dev/)
